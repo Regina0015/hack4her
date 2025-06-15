@@ -120,32 +120,15 @@ class _LoginScreenState extends State<LoginScreen> {
                 const SizedBox(height: 15),
                 GestureDetector(
                   onTap: () {
-                    // Lógica para cambiar de usuario
+                    Navigator.pushNamed(context, '/signup');
                   },
                   child: const Text(
                     'No, soy alguien más',
                     style: TextStyle(
                       fontSize: 14,
                       color: Color(0xFFD62828),
-                      decoration: TextDecoration.underline,
                     ),
                   ),
-                ),
-                const SizedBox(height: 30),
-                Text(
-                  _status,
-                  style: const TextStyle(fontSize: 14, color: Colors.grey),
-                ),
-                const SizedBox(height: 20),
-                // 🔴 Aquí se muestra lo que el usuario dice en vivo
-                Text(
-                  _text,
-                  style: const TextStyle(
-                    fontSize: 16,
-                    color: Colors.black87,
-                    fontStyle: FontStyle.italic,
-                  ),
-                  textAlign: TextAlign.center,
                 ),
               ],
             ),

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.new_final_project.app-mergeDebugResources-8:/values-uz/values-uz.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Reg00\\.gradle\\caches\\transforms-3\\270a96702af921cb404a8d7bf6363f78\\transformed\\core-1.6.0\\res\\values-uz\\values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

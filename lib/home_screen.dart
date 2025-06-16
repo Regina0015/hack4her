@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
         child: SingleChildScrollView(
           child: Column(
             children: [
-              // 🔺 Encabezado estilo Figma
+              //  Encabezado estilo Figma
               Padding(
                 padding:
                     const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
@@ -173,7 +173,7 @@ class HomeScreen extends StatelessWidget {
                 child: Align(
                   alignment: Alignment.centerLeft,
                   child: Text(
-                    'CATEGORÍAS',
+                    'CATEGORÍAS y PRODUCTOS',
                     style: TextStyle(
                       color: Colors.black,
                       fontSize: 14,

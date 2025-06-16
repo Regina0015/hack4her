@@ -1,0 +1,13 @@
+com.example.new_final_project.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Reg00\.gradle\caches\transforms-3\0a627bf994560001dbd692afee79691a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.new_final_project.app-core-1.6.0-1 C:\Users\Reg00\.gradle\caches\transforms-3\270a96702af921cb404a8d7bf6363f78\transformed\core-1.6.0\res
+com.example.new_final_project.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Reg00\.gradle\caches\transforms-3\8bee9fab1c4273d2abd49bb2bac06d1c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.new_final_project.app-jetified-window-1.0.0-beta04-3 C:\Users\Reg00\.gradle\caches\transforms-3\f441c9c54690be9ebf382ecb9cb13a64\transformed\jetified-window-1.0.0-beta04\res
+com.example.new_final_project.app-packaged_res-4 C:\Users\Reg00\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\build\intermediates\packaged_res\debug
+com.example.new_final_project.app-pngs-5 C:\Users\Reg00\InnovatHers\new_final_project\android\app\build\generated\res\pngs\debug
+com.example.new_final_project.app-resValues-6 C:\Users\Reg00\InnovatHers\new_final_project\android\app\build\generated\res\resValues\debug
+com.example.new_final_project.app-rs-7 C:\Users\Reg00\InnovatHers\new_final_project\android\app\build\generated\res\rs\debug
+com.example.new_final_project.app-mergeDebugResources-8 C:\Users\Reg00\InnovatHers\new_final_project\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.new_final_project.app-mergeDebugResources-9 C:\Users\Reg00\InnovatHers\new_final_project\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.new_final_project.app-merged_res-10 C:\Users\Reg00\InnovatHers\new_final_project\android\app\build\intermediates\merged_res\debug
+com.example.new_final_project.app-debug-11 C:\Users\Reg00\InnovatHers\new_final_project\android\app\src\debug\res
+com.example.new_final_project.app-main-12 C:\Users\Reg00\InnovatHers\new_final_project\android\app\src\main\res

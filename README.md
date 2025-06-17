@@ -19,9 +19,9 @@
    ```bash
    git clone https://github.com/Regina0015/hack4her.git
 
-  ##Figma del trabajo 
+  # Figma del trabajo 
   https://www.figma.com/design/i114IHpELT9iJgzneI6DES/H4H?node-id=0-1&t=uG4xMNWRkYjBH6kE-1 
-  ##Presentación PPT
+  # Presentación PPT
   https://www.canva.com/design/DAGqbXH04ZA/dIG82wycFL8hXJ7_SBw4_Q/edit?utm_content=DAGqbXH04ZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 =======
 # new_final_project

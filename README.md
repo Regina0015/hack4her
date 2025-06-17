@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # 🗣️ TUALI Login App 
  Desarollado por InnovatHers
